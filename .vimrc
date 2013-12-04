@@ -1,2 +1,2 @@
-:set autoindent
-:set expandtab
+set autoindent
+set expandtab
